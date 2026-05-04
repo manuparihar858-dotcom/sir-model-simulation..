@@ -36,3 +36,9 @@ The simulation shows:
 - Small changes in infection rate (β) significantly affect the peak number of infected individuals.
 - Higher recovery rate (γ) reduces the duration of the outbreak.
 - The model clearly shows how quickly a disease can spread if not controlled.
+## 🎥 Simulation Animation
+
+![SIR Animation](sir_animation.gif)
+## 📊 Effect of Infection Rate
+
+The simulation shows how different infection rates (β) impact disease spread. Higher β leads to faster and higher peaks.
