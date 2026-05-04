@@ -28,3 +28,6 @@ The simulation shows:
 1. Open in Google Colab
 2. Run all cells
 3. View simulation graph
+## 📊 Simulation Result
+
+![SIR Graph](output.png)
